@@ -151,13 +151,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This is experimental software. Users should understand the risks involved in DeFi protocols and liquid staking before participating. Always do your own research and consider the potential for smart contract bugs, validator slashing, and other risks.
 
-## 📞 Contact
-
-- Website: [skateflow.finance](https://skateflow.finance)
-- Twitter: [@SkateFlowSui](https://twitter.com/SkateFlowSui)
-- Discord: [Join our community](https://discord.gg/skateflow)
-- Documentation: [docs.skateflow.finance](https://docs.skateflow.finance)
-
----
-
-Built with ❤️ on Sui Network
